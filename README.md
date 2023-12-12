@@ -17,7 +17,7 @@
 - `figures/`: Contains generated figures and charts.
 
 ### Running the Code
-1. Download and extract the repository.
+1. For the full reproducible file, download from [ignacioflores.com/reproductibility/lacir-wealth.zip](https://www.ignacioflores.com/reproductibility/lacir-wealth.zip) and extract it.
 2. Navigate to `code/Stata/`.
 3. Set the working directory in line 6 of `run_everything.do`.
 4. Before running the code, ensure the following Stata packages are installed:
@@ -33,7 +33,7 @@
 5. Run `run_everything.do`.
 
 ## Data and Reproducibility
-All datasets used in this study are provided in the repository, ensuring full reproducibility of the results.
+Datasets necessary for full reproducibility are available for download separately due to their size.
 
 ## Citation
 
@@ -43,10 +43,9 @@ All datasets used in this study are provided in the repository, ensuring full re
 - Bibtex:
 ```
 @article{carranza2023wealth,
-  title={Wealth Inequality in Latin America},
-  author={Carranza, Rafael and De Rosa, Mauricio and Flores, Ignacio},
-  year={2023},
-  publisher={International Inequalities Institute, London School of Economics and~…}
+title={Wealth Inequality in Latin America},
+author={Carranza, Rafael and De Rosa, Mauricio and Flores, Ignacio},
+year={2023},
+publisher={International Inequalities Institute, London School of Economics and Political Science}
 }
 ```
-
