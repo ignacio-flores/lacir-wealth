@@ -17,7 +17,7 @@
 - `figures/`: Contains generated figures and charts.
 
 ### Running the Code
-1. For the full reproducible file, download from [ignacioflores.com/reproductibility/lacir-wealth.zip](https://www.ignacioflores.com/reproductibility/lacir-wealth.zip) and extract it.
+1. For the full reproducible file, download from [ignacioflores.com/reproducibility/lacir-wealth.zip](https://www.ignacioflores.com/reproducibility/lacir-wealth.zip) and extract it.
 2. Navigate to `code/Stata/`.
 3. Set the working directory in line 6 of `run_everything.do`.
 4. Before running the code, ensure the following Stata packages are installed:
