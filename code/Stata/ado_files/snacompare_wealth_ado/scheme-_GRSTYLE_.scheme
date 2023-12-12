@@ -1,0 +1,60 @@
+#include s2color
+color background white
+color plotregion none
+linestyle plotregion none
+color grid dimgray
+color major_grid dimgray
+color minor_grid dimgray
+linewidth grid thin
+linewidth major_grid thin
+linewidth minor_grid thin
+yesno draw_major_vgrid yes
+yesno draw_major_hgrid yes
+yesno draw_minor_vgrid yes
+yesno draw_minor_hgrid yes
+yesno grid_draw_min yes
+yesno grid_draw_max yes
+color heading black
+color textbox none
+color bylabel_outline none
+color mat_label_box none
+clockdir legend_position 5
+clockdir by_legend_position 5
+gridringstyle legend_ring 0
+gridringstyle by_legend_ring 0
+areastyle legend none
+gsize legend_key_xsize huge
+color p1 "0 0 0"
+color p2 "153 153 153"
+color p3 "230 159 0"
+color p4 "86 180 233"
+color p5 "0 158 115"
+color p6 "0 114 178"
+color p7 "213 94 0"
+color p8 "204 121 167"
+symbol p1 circle
+symbol p2 triangle
+symbol p3 square
+symbol p4 diamond
+symbol p5 circle_hollow
+symbol p6 triangle_hollow
+symbol p7 square_hollow
+symbol p8 diamond_hollow
+symbolsize p large
+linepattern p1 solid
+linepattern p2 solid
+linepattern p3 solid
+linepattern p4 solid
+gsize text medsmall
+gsize heading medlarge
+gsize subheading medium
+gsize axis_title medsmall
+gsize key_label small
+gsize tick_label small
+gsize tick_biglabel medsmall
+gsize text_option small
+symbolsize p medsmall
+gsize legend_key_ysize small
+margin graph medsmall
+gsize matrix_label medium
+symbolsize matrix medsmall
